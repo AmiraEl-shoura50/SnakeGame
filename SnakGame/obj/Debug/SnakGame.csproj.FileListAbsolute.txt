@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\SnakGame\SnakGame\bin\Debug\SnakGame.exe.config
+C:\Users\hp\source\repos\SnakGame\SnakGame\bin\Debug\SnakGame.exe
+C:\Users\hp\source\repos\SnakGame\SnakGame\bin\Debug\SnakGame.pdb
+C:\Users\hp\source\repos\SnakGame\SnakGame\obj\Debug\SnakGame.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\SnakGame\SnakGame\obj\Debug\SnakGame.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SnakGame\SnakGame\obj\Debug\SnakGame.exe
+C:\Users\hp\source\repos\SnakGame\SnakGame\obj\Debug\SnakGame.pdb
